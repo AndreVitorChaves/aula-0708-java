@@ -1,2 +1,2 @@
-# aula-0708-java
-Aprendendo Java na faculdade, dia 07/08/2025
+# conta-bancaria-java-basico
+Criando uma simples conta bancária utilizando o Java Básico!
